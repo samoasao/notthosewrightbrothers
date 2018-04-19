@@ -9,19 +9,23 @@ h1, .navbar-brand, .btn-lg{
 }
 
 
+nav,  .btn{
+    background-color: #28467a;
+}
+
 
 
 
 main{
-    background-color: lightgray;
+    background-color: #93b9de;
 }
 
 #home, #Donate{
     background-color:#efefef;
+    background-image: url(./light_noise_diagonal.png);
 }
 
 .navbar-brand{
-     /* background-color: #1044E8;  */
      padding-top: 3px;
      padding-bottom: 8px;
 }
