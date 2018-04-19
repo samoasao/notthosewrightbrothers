@@ -1,0 +1,35 @@
+body{
+     background-color: gray; 
+    
+    font-family: 'Raleway', sans-serif;
+}
+
+h1, .navbar-brand, .btn-lg{
+    font-family: 'Corben', cursive;
+}
+
+
+
+
+
+main{
+    background-color: lightgray;
+}
+
+#home, #Donate{
+    background-color:#efefef;
+}
+
+.navbar-brand{
+     /* background-color: #1044E8;  */
+     padding-top: 3px;
+     padding-bottom: 8px;
+}
+
+.navbar-nav{
+    font-family: 'Raleway', sans-serif;
+}
+
+#main-video{
+    box-shadow: 12px black;
+}
