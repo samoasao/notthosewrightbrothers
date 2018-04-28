@@ -9,12 +9,12 @@ h1, .navbar-brand, .btn-lg{
 }
 
 h1{
-    font-size: 50px;;
+    font-size: 70px;
 }
 
-@media screen and (max-width: 768px){
+@media screen and (max-width: 500px){
     h1{
-        font-size: 30px;
+        font-size: 36px;
         }
 }
 
@@ -32,7 +32,7 @@ main{
 
 #home, #Donate{
     background-color:#efefef;
-    background-image: url(./dust_scratchesq.png);
+    background-image: url(./images/backgrounds/dust_scratches.png);
 }
 
 .navbar-brand{
@@ -46,4 +46,9 @@ main{
 
 #main-video{
     box-shadow: 12px black;
+}
+
+#about{
+    background: url(./images/backgrounds/binding_dark.png);
+    /* height: 700px;; */
 }
