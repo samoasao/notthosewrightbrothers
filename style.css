@@ -8,6 +8,16 @@ h1, .navbar-brand, .btn-lg{
     font-family: 'Corben', cursive;
 }
 
+h1{
+    font-size: 50px;;
+}
+
+@media screen and (max-width: 768px){
+    h1{
+        font-size: 30px;
+        }
+}
+
 
 nav,  .btn{
     background-color: #28467a;
@@ -22,7 +32,7 @@ main{
 
 #home, #Donate{
     background-color:#efefef;
-    background-image: url(./dust_scratches.png);
+    background-image: url(./dust_scratchesq.png);
 }
 
 .navbar-brand{
