@@ -32,7 +32,7 @@ main{
 
 #home, #Donate{
     background-color:#efefef;
-    background-image: url(./images/brushed_@2X.png);
+    background-image: url(images/backgrounds/brushed_@2X.png);
     
 }
 
@@ -50,14 +50,9 @@ main{
 }
 
 #show-details{
-    /* background: url(./images/backgrounds/binding_dark.png); */
-   background: url(grey_wash_wall/grey_wash_wall_@2X.png);
+   background: url(images/backgrounds/grey_wash_wall_@2X.png);
 }
 
 #about{
-    background: url(./images/backgrounds/binding_dark.png);
-     /* background: url(images/texturetastic_gray.png); */
-    /* background: url(brushed/brushed_@2X.png); */
-    /* background: url(brushed/brushed.png); */
-    /* height: 700px;; */
+    background: url(images/backgrounds/binding_dark.png);
 }
