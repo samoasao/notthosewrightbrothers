@@ -20,7 +20,7 @@ h1{
 
 
 nav,  .btn{
-    background-color: #28467a;
+    background-color: #1B1881;
 }
 
 
@@ -31,8 +31,8 @@ main{
 }
 
 #home, #Donate{
-    background-color:#efefef;
-    background-image: url(images/backgrounds/brushed_@2X.png);
+    background-color: #BC2C2C;
+    /* background-image: url(images/backgrounds/brushed_@2X.png); */
     
 }
 
